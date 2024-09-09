@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  our-hero:
     output: true
     order:
       - folder-page.md
