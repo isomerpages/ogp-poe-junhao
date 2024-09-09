@@ -4,6 +4,8 @@ links:
     url: /about-us/
   - title: Our Hero
     collection: our-hero
+  - title: Events
+    collection: events
   - title: Example Page
     collection: example-page
   - title: Contact Us
