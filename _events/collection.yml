@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Videos/.keep
+      - Photo Gallery/Scam.md
       - Photo Gallery/.keep
