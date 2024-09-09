@@ -24,9 +24,9 @@ sections:
           description: Click for more information
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      subtitle: For more info
+      description: To find out more about the frequent asked and answer, please click
+        on the button below.
+      button: FAQ
       url: /faq/
 ---
