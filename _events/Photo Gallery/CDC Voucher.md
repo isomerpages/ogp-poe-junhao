@@ -10,5 +10,5 @@ third_nav_title: Photo Gallery
 </div>
 <p></p>
 <hr>
-<p>Login to check if you are eligible for CDC 2025.</p>
+<p>Login to check if you are eligible for <a href="https://vouchers.cdc.gov.sg/" rel="noopener nofollow" target="_blank">CDC 2025</a>.</p>
 <p></p>
