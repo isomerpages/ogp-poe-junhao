@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - 2023/.keep
+      - 2024/January Hero Stories.md
       - 2024/.keep
