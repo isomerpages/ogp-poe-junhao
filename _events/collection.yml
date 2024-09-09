@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Videos/.keep
+      - Photo Gallery/CDC Voucher.md
       - Photo Gallery/Scam.md
       - Photo Gallery/.keep
