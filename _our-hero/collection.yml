@@ -1,5 +1,5 @@
 collections:
-  "2024":
+  our-hero:
     output: true
     order:
       - 2024/.keep
